@@ -1,0 +1,10 @@
+.nav__link{
+    /* padding: 2%;
+    height: 20px; */
+    float: left;
+    margin-left: 2%;
+}
+
+#article2{
+    background-color: green;
+}
